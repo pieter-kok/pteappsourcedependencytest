@@ -15,18 +15,18 @@
       "id": "a5727ce6-368c-49e2-84cb-1a6052f0551c",
       "name": "Tasklet Mobile WMS",
       "publisher": "Tasklet Factory",
-      "version": "1.0.0.0"
+      "version": "5.53.250.255"
     },
     {
       "id": "9e0ee02b-484d-4487-8d74-961ece2357c0",
       "name": "ShipIT 365",
       "publisher": "IDYN B.V.",
-      "version": "1.0.0.0"
+      "version": "24.11.3265.0"
     }
   ],
   "screenshots": [],
   "platform": "1.0.0.0",
-  "application": "22.0.0.0",
+  "application": "25.0.0.0",
   "idRanges": [
     {
       "from": 50000,
