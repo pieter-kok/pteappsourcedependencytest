@@ -2,5 +2,6 @@
   "country": "nl",
   "appFolders": [],
   "testFolders": [],
-  "bcptTestFolders": []
+  "bcptTestFolders": [],
+  "doNotPublishApps": true
 }
